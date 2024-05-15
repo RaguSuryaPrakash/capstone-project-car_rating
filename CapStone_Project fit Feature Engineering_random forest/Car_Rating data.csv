@@ -1,0 +1,173 @@
+Index,Car,Price,Overall Rating,Exterior,Interior,Ride Quality,Color,Airbags,Fuel type,Price
+0,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4,Silver,12,Hybrid,13328
+1,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2,Black,8,Petrol,16621
+2,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3,Black,2,Petrol,8467
+3,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4,White,0,Hybrid,3607
+4,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2,Silver,4,Petrol,11726
+5,Maruti Suzuki S-Presso,  4.26 - 6.12 Lakh,3.7,4.7,4.7,4.3,White,4,Diesel,39493
+6,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9,White,12,Hybrid,1803
+7,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8,Grey,12,Petrol,549
+8,Hyundai Grand i10 Nios,  5.73 - 8.51 Lakh,5,5,5,4.5,Black,12,Hybrid,1098
+9,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3,Silver,12,Petrol,26657
+10,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5,White,12,Diesel,941
+11,Hyundai Aura,  6.33 - 8.90 Lakh,3.5,4.7,4,3.7,Blue,0,CNG,8781
+12,Maruti Suzuki Baleno,  6.45 - 9.88 Lakh,4.7,4.8,4.1,4.1,White,4,CNG,3000
+13,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2,White,12,Hybrid,1019
+14,Honda Amaze,  6.91 - 11.52 Lakh,4.1,4.3,4.8,4.2,White,4,Diesel,59464
+15,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4,White,12,Petrol,549
+16,Renault Triber,  6.34 - 8.98 Lakh,3.2,4.4,4.2,3.4,Blue,12,Petrol,7683
+17,Maruti Suzuki Alto K10,  3.99 - 5.96 Lakh,4.4,4.4,4.4,4.4,White,4,Petrol,28382
+18,Maruti Suzuki Swift,  5.99 - 9.03 Lakh,4.2,4.2,4,4.3,Blue,12,Petrol,549
+19,Maruti Suzuki Alto 800,  3.25 - 5.12 Lakh,4.2,4,3.8,4.2,Black,12,Hybrid,941
+20,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5,Silver,4,Petrol,18826
+21,Tata Punch,  6.00 - 9.54 Lakh,4.1,4.8,4.4,4.6,White,12,Plug-in Hybrid,20698
+22,Tata Tiago,  5.53 - 8.15 Lakh,4,4.1,4.2,4.2,Black,12,Petrol,17562
+23,Nissan Magnite,  6.00 - 10.86 Lakh,4.3,4.8,4.6,4.5,White,0,Diesel,7840
+24,Toyota Glanza,  6.81 - 10.00 Lakh,4.8,5,5,5,Green,4,Petrol,4704
+25,Kia Sonet,  7.79 - 14.89 Lakh,3,3,3,3,Black,8,Diesel,20385
+26,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9,White,0,Petrol,549
+27,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8,White,8,Hybrid,30
+28,Hyundai Grand i10 Nios,  5.73 - 8.51 Lakh,5,5,5,4.5,Silver,4,Petrol,14454
+29,Renault Kwid,  4.70 - 6.45 Lakh,3.5,2.7,3,2.3,Blue,12,Hybrid,12074
+30,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5,White,4,Diesel,15681
+31,Hyundai Aura,  6.33 - 8.90 Lakh,3.5,4.7,4,3.7,White,12,Diesel,19444
+32,Maruti Suzuki Baleno,  6.45 - 9.88 Lakh,4.7,4.8,4.1,4.1,Silver,6,CNG,6899
+33,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2,White,12,Hybrid,125
+34,Honda Amaze,  6.91 - 11.52 Lakh,4.1,4.3,4.8,4.2,Black,10,Diesel,24462
+35,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4,Grey,4,Diesel,23235
+36,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5,Red,12,Petrol,51746
+37,Renault Triber,  6.34 - 8.98 Lakh,3.2,4.4,4.2,3.4,Black,4,Hybrid,7527
+38,Maruti Suzuki Swift,  5.99 - 9.03 Lakh,4.2,4.2,4,4.3,Silver,4,Petrol,19121
+39,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4,Silver,12,Hybrid,314
+40,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5,Blue,4,Petrol,24462
+41,Tata Punch,  6.00 - 9.54 Lakh,4.1,4.8,4.4,4.6,Black,4,Diesel,45734
+42,Mahindra Bolero,  9.53 - 10.79 Lakh,5,5,4,5,Black,8,Petrol,20165
+43,Mahindra XUV300,  8.10 - 14.60 Lakh,4.1,4.9,4.7,4.7,White,12,Hybrid,21326
+44,Tata Tiago,  5.53 - 8.15 Lakh,4,4.1,4.2,4.2,Silver,12,Petrol,549
+45,Mahindra Bolero Neo,  9.48 - 12.14 Lakh,0,,,,Silver,12,Petrol,220
+46,Kia Seltos,  10.89 - 19.99 Lakh,0,,,,Sky blue,8,Hybrid,15681
+47,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9,Black,4,Diesel,55390
+48,Maruti Suzuki Jimny,  12.74 - 15.05 Lakh,5,4.5,5,4.5,Black,8,Hybrid,12544
+49,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8,White,8,Hybrid,17249
+50,Mahindra Scorpio,  12.64 - 16.81 Lakh,4.9,5,4.7,4.7,Blue,4,Petrol,34889
+51,Mahindra Thar,  9.99 - 16.78 Lakh,4,4.3,3.9,4.1,Black,0,Petrol,862
+52,Honda City,  11.60 - 16.08 Lakh,5,5,5,5,White,10,Diesel,14583
+53,Maruti Suzuki Grand Vitara,  10.57 - 19.90 Lakh,4.7,5,4.8,4.8,Black,12,Petrol,392
+54,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2,White,12,Petrol,38500
+55,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7,Blue,0,Petrol,8781
+56,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4,Grey,0,Petrol,87112
+57,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5,Black,0,Petrol,1411
+58,Toyota Urban Cruiser Hyryder,  10.86 - 19.99 Lakh,4,4.5,4,4.5,Black,12,Petrol,392
+59,Hyundai Verna,  10.90 - 17.38 Lakh,5,5,5,5,Red,6,Petrol,23521
+60,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3,Silver,8,Petrol,16935
+61,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4,Black,6,Petrol,10349
+62,Kia Seltos,  10.89 - 19.65 Lakh,5,4.5,5,4.5,Black,0,Petrol,7213
+63,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5,Black,6,Petrol,5331
+64,Hyundai Creta,  10.87 - 19.20 Lakh,4.2,4,4,4,Grey,4,Diesel,20526
+65,Tata Altroz,  6.00 - 10.74 Lakh,4.3,4.5,4.3,4.5,Orange,4,LPG,9722
+66,Kia Seltos,  10.90 - 20.00 Lakh,0,,,,Silver,4,Diesel,34657
+67,Hyundai Exter,  6.00 - 10.10 Lakh,4.8,4.8,4.9,4.9,Black,4,Diesel,36564
+68,Maruti Suzuki Jimny,  12.74 - 15.05 Lakh,5,4.5,5,4.5,White,12,Hybrid,314
+69,Maruti Suzuki Fronx,  7.47 - 13.14 Lakh,4.5,4.2,4.5,4.8,Sky blue,3,Petrol,5488
+70,Mahindra Scorpio,  12.64 - 16.81 Lakh,4.9,5,4.7,4.7,Silver,4,Diesel,30063
+71,Mahindra Thar,  9.99 - 16.78 Lakh,4,4.3,3.9,4.1,Silver,4,Diesel,15800
+72,Honda City,  11.60 - 16.08 Lakh,5,5,5,5,Grey,4,Diesel,43952
+73,Maruti Suzuki Grand Vitara,  10.57 - 19.90 Lakh,4.7,5,4.8,4.8,Silver,4,Diesel,53154
+74,Hyundai i20,  7.19 - 11.83 Lakh,4.1,4.4,4.4,4.2,White,8,Hybrid,14740
+75,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7,Silver,6,Petrol,42337
+76,Tata Nexon,  7.79 - 14.60 Lakh,3.9,3.9,4.1,4,White,12,Petrol,3763
+77,Maruti Suzuki Brezza,  8.27 - 14.14 Lakh,4.4,4.7,4.5,4.5,Silver,8,Petrol,18189
+78,Toyota Urban Cruiser Hyryder,  10.86 - 19.99 Lakh,4,4.5,4,4.5,White,0,Petrol,862
+79,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7,White,0,Hybrid,220
+80,Hyundai Verna,  10.90 - 17.38 Lakh,5,5,5,5,White,12,Hybrid,5645
+81,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3,White,12,Petrol,7527
+82,Maruti Suzuki Ertiga,  8.35 - 13.08 Lakh,4.4,4.5,4.1,4.4,White,10,Hybrid,21953
+83,Kia Seltos,  10.89 - 19.65 Lakh,5,4.5,5,4.5,White,2,Petrol,8154
+84,Hyundai Venue,  7.72 - 13.18 Lakh,4.9,4.9,4.9,5,Black,0,Petrol,21953
+85,Hyundai Creta,  10.87 - 19.20 Lakh,4.2,4,4,4,Black,4,Petrol,19121
+86,Maruti Suzuki Invicto,  24.79 - 28.42 Lakh,0,,,,White,4,Diesel,36065
+87,Mahindra Scorpio N,  12.74 - 24.52 Lakh,4.3,4.9,4.5,4.7,Green,12,Hybrid,8781
+88,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7,Black,4,Petrol,6247
+89,Mahindra XUV700,  13.45 - 26.18 Lakh,4.6,4.5,4.6,4.3,Grey,4,Diesel,16289
+90,Tata Harrier,  15.20 - 24.27 Lakh,0,,,,Black,10,Petrol,77775
+91,Jeep Compass,  19.27 - 32.67 Lakh,3.7,4,3.9,3.7,Blue,2,Petrol,2822
+92,Tata Safari,  15.85 - 25.21 Lakh,0,,,,Blue,0,Petrol,549
+93,MG Hector,  14.73 - 22.32 Lakh,0,,,,Black,4,Petrol,6981
+94,Toyota Innova Crysta,  19.38 - 25.68 Lakh,0,,,,Black,12,Petrol,27284
+95,Hyundai Alcazar,  16.10 - 21.13 Lakh,0,,,,Black,12,Petrol,32929
+96,Isuzu D-Max,  19.48 - 27.00 Lakh,3.8,4,4,4.5,Black,0,Diesel,18817
+97,Hyundai Tucson,  28.63 - 35.46 Lakh,0,,,,Blue,6,Petrol,4234
+98,MG Hector Plus,  17.50 - 23.17 Lakh,0,,,,Grey,8,Petrol,15053
+99,MG ZS EV,  21.99 - 27.40 Lakh,3.7,4.3,4.7,4,Black,4,Petrol,15458
+100,Hyundai Kona Electric,  23.84 - 24.03 Lakh,4.5,5,4.5,4.5,Green,12,Petrol,2901
+101,Honda City Hybrid eHEV,  18.92 - 20.42 Lakh,0,,,,Black,12,Petrol,706
+102,BYD e6,  29.15 Lakh,0,,,,Black,12,Hybrid,314
+103,Toyota Innova Hycross,  18.82 - 30.26 Lakh,4.3,4.3,4.3,4.7,Silver,0,Petrol,15681
+104,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5,White,1,Diesel,26657
+105,Jeep Compass,  19.27 - 32.67 Lakh,3.7,4,3.9,3.7,Silver,6,Petrol,10663
+106,Kia Carnival,  25.48 - 35.48 Lakh,5,4.5,5,5,Sky blue,10,Petrol,12858
+107,Jeep Meridian,  27.75 - 38.10 Lakh,0,,,,Black,12,Diesel,1019
+108,Skoda Kodiaq,  37.49 - 41.39 Lakh,0,,,,White,12,Hybrid,549
+109,BYD Atto 3,  33.99 - 34.49 Lakh,5,5,5,5,Silver,2,Petrol,12858
+110,Skoda Superb,  30.49 - 37.27 Lakh,4,4.2,4.6,4.3,White,12,CNG,15000
+111,MG Gloster,  32.60 - 43.08 Lakh,3.3,4,4.3,4.3,Black,4,Petrol,85553
+112,Toyota Hilux,  30.41 - 37.90 Lakh,5,5,5,5,Grey,4,Diesel,44752
+113,Hyundai Tucson,  28.63 - 35.46 Lakh,0,,,,White,4,Petrol,17158
+114,Volkswagen Tiguan,  34.18 - 34.70 Lakh,5,5,5,5,White,16,LPG,12231
+115,Citroen C5 Aircross,  37.17 Lakh,0,,,,White,12,Petrol,11917
+116,Isuzu MU-X,  34.94 - 37.90 Lakh,0,,,,Red,0,Petrol,1254
+117,Mercedes-Benz A-Class Limousine,  45.80 - 47.00 Lakh,5,5,5,5,Silver,4,Petrol,94
+118,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5,Silver,4,Diesel,25591
+119,BMW X1,  45.90 - 50.89 Lakh,0,,,,White,4,Diesel,14897
+120,BMW 2 Series Gran Coupe,  41.49 - 45.50 Lakh,5,5,4.5,4.5,White,12,Hybrid,23521
+121,Toyota Fortuner Legender,  43.22 - 46.94 Lakh,5,5,5,5,Green,0,Petrol,3450
+122,Audi A4,  43.81 - 51.85 Lakh,3.9,3.5,3.4,3.4,Red,12,Petrol,706
+123,Skoda Kodiaq,  37.49 - 41.39 Lakh,0,,,,Black,12,Hybrid,1019
+124,MG Gloster,  32.60 - 43.08 Lakh,3.3,4,4.3,4.3,Black,0,Petrol,16935
+125,Audi Q3,  45.65 - 51.24 Lakh,5,5,5,5,Black,6,Petrol,19444
+126,MINI Cooper,  29.90 - 43.90 Lakh,4,,,,Silver,4,LPG,11604
+127,Toyota Camry,  46.17 Lakh,0,,,,Blue,4,Diesel,51965
+128,Hyundai Ioniq 5,  45.95 Lakh,0,,,,Grey,12,Hybrid,706
+129,MINI Countryman,  34.92 - 47.40 Lakh,4,,,,Silver,4,Diesel,9408
+130,Volvo XC40,  46.40 Lakh,0,,,,Yellow,4,Diesel,13328
+131,Mercedes-Benz GLA,  48.46 - 52.66 Lakh,0,,,,White,12,Petrol,17876
+132,Land Rover Range Rover Velar,  93.00 Lakh,0,,,,Grey,12,Petrol,549
+133,BMW X5,  93.90 Lakh - 1.07 Crore,0,,,,Silver,8,Petrol,20071
+134,BMW M2,  98.00 Lakh,0,,,,Yellow,4,Diesel,22894
+135,BMW Z4,  89.30 Lakh,0,,,,White,0,Hybrid,2901
+136,Mercedes-Benz AMG A45 S,  92.50 Lakh,0,,,,Blue,6,Petrol,15681
+137,BMW X3 M40i,  86.50 Lakh,0,,,,Black,0,Petrol,39829
+138,Toyota Fortuner,  32.98 - 50.74 Lakh,4.2,4.5,4.2,4.5,Black,0,Petrol,706
+139,Land Rover Defender,  76.57 Lakh - 2.30 Crore,0,,,,Black,6,Petrol,18660
+140,BMW 3 Series Gran Limousine,  58.90 - 60.50 Lakh,0,,,,Black,12,Petrol,22580
+141,Land Rover Range Rover Velar,  72.61 Lakh - 1.32 Crore,0,,,,Silver,4,LPG,11604
+142,BMW M340i,  69.20 Lakh,0,,,,Brown,0,Hybrid,314
+143,Volvo XC40 Recharge,  56.90 Lakh,0,,,,Black,12,Petrol,5488
+144,Jeep Wrangler,  60.60 - 64.60 Lakh,0,,,,Black,1,Diesel,4300
+145,Audi A4,  43.81 - 51.85 Lakh,3.9,3.5,3.4,3.4,White,12,Hybrid,18817
+146,Lexus ES,  56.53 - 67.95 Lakh,0,,,,Grey,8,Petrol,21169
+147,Volvo XC60,  67.50 Lakh,0,,,,Red,4,Petrol,9095
+148,Land Rover Range Rover Evoque,  59.03 - 72.09 Lakh,5,4,4,5,Silver,12,Diesel,1568
+149,Jaguar F-Type,  97.93 Lakh - 2.61 Crore,5,4.5,4.5,5,Blue,6,Petrol,3136
+150,Audi Q3,  45.65 - 51.24 Lakh,5,5,5,5,Grey,12,Petrol,17876
+151,Volvo S90,  67.90 Lakh,0,,,,Silver,4,LPG,11290
+152,BMW X5,  93.90 Lakh - 1.07 Crore,0,,,,White,16,Petrol,36065
+153,Mercedes-Benz AMG SL55 Roadster,  2.35 Crore,0,,,,White,12,Hybrid,862
+154,Mercedes-Benz G-Class,  2.55 Crore,0,,,,Silver,4,Diesel,21395
+155,Toyota Land Cruiser,  2.10 Crore,0,,,,Silver,4,LPG,15681
+156,Land Rover Defender,  76.57 Lakh - 2.30 Crore,0,,,,Red,0,Hybrid,627
+157,Land Rover Range Rover,  2.39 - 4.17 Crore,0,,,,Black,4,Petrol,40070
+158,Lamborghini Urus Performante,  4.18 - 4.22 Crore,0,,,,Golden,8,Petrol,11917
+159,Jaguar F-Type,  97.93 Lakh - 2.61 Crore,5,4.5,4.5,5,Black,6,Petrol,72130
+160,BMW X7,  1.22 - 1.25 Crore,0,,,,Silver,4,Diesel,35927
+161,Porsche 911,  1.84 - 3.34 Crore,4,,,,White,4,Hybrid,21012
+162,Lamborghini Huracan STO,  4.99 Crore,0,,,,Grey,12,Petrol,21012
+163,Porsche 718,  85.95 Lakh - 2.74 Crore,0,,,,White,6,Diesel,13172
+164,Porsche Cayenne,  1.19 - 1.93 Crore,4,,,,Grey,4,Petrol,15624
+165,Lamborghini Huracan Evo,  2.84 - 4.10 Crore,4.1,4,3.8,4.2,Beige,2,Petrol,4547
+166,BMW 7 Series,  1.70 Crore,0,,,,Black,12,Petrol,5488
+167,BMW i7,  1.95 Crore,0,,,,White,4,Petrol,20005
+168,Land Rover Range Rover Sport,  1.64 - 1.84 Crore,0,,,,Silver,8,Petrol,36110
+169,Aston Martin DBX,  3.82 - 4.63 Crore,0,,,,Blue,4,Petrol,7840
+170,Porsche Macan,  88.06 Lakh - 1.53 Crore,0,,,,Black,12,Petrol,470
+171,BMW XM,  2.60 Crore,0,,,,Blue,0,Petrol,1300
